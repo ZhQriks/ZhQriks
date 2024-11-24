@@ -1,6 +1,5 @@
-### Hi there 👋
+<div align="center">
 
-- 🔭 I’m developer
-- Stack: React, Next, Nodejs, Django
-- 📫 How to reach me: dauletjarasar@gmail.com
--->
+[![GitHub Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=zhqriks&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/LordDashMe/github-contribution-stats/)
+
+</div>
